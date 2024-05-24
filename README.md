@@ -14,11 +14,13 @@ The icon used in this portfolio was provided by [Adobe](https://www.adobe.com/).
 
 This portfolio showcases my projects, skills, and experiences. Here's a brief overview of what you'll find:
 
-- **Projects**: A collection of projects I've worked on, including descriptions, technologies used, and links to view them.
-  
-- **Skills**: An overview of my technical skills, including programming languages, frameworks, and tools.
-
 - **About Me**: A little bit about myself, my background, and what I'm passionate about.
+
+- **My Resume**: A more proffesional document with specific information on my skills and achievements
+
+- **Projects**: A collection of projects I've worked on, including descriptions, technologies used, and links to view them
+ 
+- **Awards**: A list of some of my most recent achievenments and awards
 
 - **Contact**: How to get in touch with me. Feel free to reach out for collaborations, job opportunities, or just to say hello!
 
